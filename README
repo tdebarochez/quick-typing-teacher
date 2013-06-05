@@ -4,3 +4,9 @@ Quick Typing Teacher
 To run the application :
 
     $ play run
+
+
+Requirements
+===
+
+ - compass : `gem install compass`
